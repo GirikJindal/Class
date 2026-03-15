@@ -132,7 +132,7 @@ This system predates modern AI tools. So no language models, no ChatGPT, no AI S
 Clone my repository:
 
 ```bash
-git clone https://github.com/gji2163/Class.git
+git clone https://github.com/GirikJindal/Class.git
 ````
 
 Install the dependencies:
@@ -189,7 +189,7 @@ Please check the contribution guidelines first.
 
 If something breaks, behaves strangely, or starts attending the wrong class (which would be awkward), open an issue here:
 
-[https://github.com/gji2163/Class/issues](https://github.com/gji2163/Class/issues)
+[https://github.com/GirikJindal/Class/issues](https://github.com/GirikJindal/Class/issues)
 
 ---
 
