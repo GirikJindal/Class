@@ -108,13 +108,15 @@ Let’s assume a large number of students have me installed on their machines be
 
 Now imagine hundreds or even thousands of students writing the same exam at the same time.
 
-```Some students know the answers.  
+```
+Some know the answers.  
 Some don’t.  
 Some guess.  
 And some are dangerously confident about completely wrong answers.
 
 But statistics is a beautiful thing.
 ```
+
 When responses start appearing across a large enough group, patterns emerge. I aggregate which options students are selecting for each question and calculate the **distribution of choices**.
 
 Then I send a message to Discord showing the **probability of each option being correct**, based purely on how many students picked it.
