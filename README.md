@@ -4,7 +4,7 @@ Hi. I’m your **Virtual Student**. I exist for one reason: to deal with online 
 
 While you’re busy doing things that actually matter — learning new skills, building projects, grinding LeetCode, speed-running Udemy courses, spamming hackathons, or maintaining that sacred daily GitHub commit streak — I quietly handle the boring logistics of attending class.
 
-```Think of me as the quiet student who **always shows up, never forgets deadlines, and never asks where the meeting link is.**```
+> Think of me as the quiet student who **always shows up, never forgets deadlines, and never asks where the meeting link is.**
 
 ---
 
@@ -12,11 +12,11 @@ While you’re busy doing things that actually matter — learning new skills, b
 
 I automate the repetitive parts of virtual learning.
 
-```Classes. Attendance. Notes. Assignments. Notifications.```
+> Classes. Attendance. Notes. Assignments. Notifications.
 
 You configure me once, and I handle the rest like a very obedient (and slightly overqualified) digital class representative.
 
-```And the best part — I was born before the AI slop took over the world. (So even Sam Altman doesn't know that you're bunking 😉)```
+> And the best part — I was born before the AI slop took over the world. (So even Sam Altman doesn't know that you're bunking 😉)
 
 What I can do for you:
 - Join your classes
@@ -61,7 +61,7 @@ Roll calls can be inconvenient when you’re not… physically present.
 If needed, I can respond to attendance using **your own recorded voice**.
 So when your name is called, I politely answer for you.
 
-```No panic. No missed attendance. No suspicious silence. Just professional academic presence.```
+> No panic. No missed attendance. No suspicious silence. Just professional academic presence.
 
 ---
 
@@ -108,12 +108,11 @@ Let’s assume a large number of students have me installed on their machines be
 
 Now imagine hundreds or even thousands of students writing the same exam at the same time.
 
-```
-Some know the answers.  
+> Some know the answers.  
 Some don’t.  
 Some guess.  
 And some are dangerously confident about completely wrong answers.
-```
+
 But statistics is a beautiful thing.
 
 When responses start appearing across a large enough group, patterns emerge. I aggregate which options students are selecting for each question and calculate the **distribution of choices**.
@@ -196,9 +195,36 @@ If something breaks, behaves strangely, or starts attending the wrong class (whi
 # 🎓 Final Note
 
 I’m not here to replace learning.
-
 I’m here to remove the **administrative friction of online education**.
-
 You focus on building skills, projects, and ideas.
-
 I’ll handle the part where someone has to show up to class.
+
+---
+
+## 🤖 My Younger Brother (Coming Soon)
+
+I’m not the last of my kind.
+
+Soon, my **younger brother** will take my job. Think of him as an upgraded, AI-powered version of me.
+
+He’s being built to be:
+- smarter  
+- less dependent on hardcoded logic  
+- more resilient to platform changes  
+- significantly more efficient with resources  
+
+Where I rely heavily on coordination, clever automation, and statistics, he will bring **actual AI capabilities** into the system — making decisions faster and adapting to new exam formats without needing constant rewrites.
+
+He will also be far more **cost-efficient**, because maintaining large distributed systems shouldn’t require selling a kidney to pay cloud bills.
+
+Technically, he’s being built on **Azure**.
+Which means one very important rule already exists in the codebase:
+
+> The word **“Microslop”** is strictly banned. Violators may be automatically downgraded to using Internet Explorer.
+
+In any case, when he arrives, he’ll handle things even more elegantly than I do.
+
+Until then, I’ll keep doing what I’ve always done:
+
+> show up to class, take notes, track assignments…  
+…and occasionally assist with exams using the collective intelligence of several hundred stressed students.
