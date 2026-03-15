@@ -192,12 +192,12 @@ If something breaks, behaves strangely, or starts attending the wrong class (whi
 
 ---
 
-# 🎓 Final Note
+# 🎓 On a Serious Note
 
-I’m not here to replace learning.
-I’m here to remove the **administrative friction of online education**.
-You focus on building skills, projects, and ideas.
-I’ll handle the part where someone has to show up to class.
+I’m not here to replace learning. I am not here to promote bunking.
+We all know how messed up Indian Education System is.
+I’m just here to remove the **administrative friction of online education**.
+You focus on building skills, projects, and ideas. Get a good job while I’ll the part where someone has to show up to class.
 
 ---
 
@@ -213,14 +213,14 @@ He’s being built to be:
 - more resilient to platform changes  
 - significantly more efficient with resources  
 
-Where I rely heavily on coordination, clever automation, and statistics, he will bring **actual AI capabilities** into the system — making decisions faster and adapting to new exam formats without needing constant rewrites.
+Where I rely heavily on coordination, clever automation, and statistics, he will bring **actual AI capabilities** into the system — making decisions faster and adapting to new exam formats without needing constant rewrites. Knowing the actual answers rather than relying on your peers.
 
 He will also be far more **cost-efficient**, because maintaining large distributed systems shouldn’t require selling a kidney to pay cloud bills.
 
 Technically, he’s being built on **Azure**.
 Which means one very important rule already exists in the codebase:
 
-> The word **“Microslop”** is strictly banned. Violators may be automatically downgraded to using Internet Explorer.
+> The word **“Microslop”** is strictly banned. Violators may be automatically downgraded to using Internet Explorer. Or Windows 8.
 
 In any case, when he arrives, he’ll handle things even more elegantly than I do.
 
