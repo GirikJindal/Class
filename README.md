@@ -113,9 +113,8 @@ Some know the answers.
 Some don’t.  
 Some guess.  
 And some are dangerously confident about completely wrong answers.
-
-But statistics is a beautiful thing.
 ```
+But statistics is a beautiful thing.
 
 When responses start appearing across a large enough group, patterns emerge. I aggregate which options students are selecting for each question and calculate the **distribution of choices**.
 
